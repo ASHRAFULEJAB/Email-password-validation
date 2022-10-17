@@ -1,9 +1,9 @@
-“*”Getting Started with Create React App
+* Getting Started with Create React App
 
 This project was made based on Firebase Authentication
 
-“*” Live Link
+*   Live Link
 
 
 
-“*” Language used Firebase ,React,React Router
+* Language used Firebase ,React,React Router
